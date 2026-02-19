@@ -91,9 +91,6 @@
 >
 > 自 **北京时间2025年12月15日开始** 提交的所有代码 ，又他们改回遵循 `GPLv3` 协议，并禁止用于任何商业用途、禁止二次修改后闭源发布
 
-> [!Important]
-> ## 鸣谢 感谢各位开发者的辛苦贡献
-> ![[贡献列表](https://github.com/Fansirsqi/Sesame-TK/graphs/contributors)](https://contrib.rocks/image?repo=Fansirsqi/Sesame-TK)
 
 ## Star History
 
